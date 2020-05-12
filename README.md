@@ -8,3 +8,5 @@ https://courses.packtpub.com/enrollments
 https://tour.golang.org/welcome/1
 
 https://linuxacademy.com/course/system-tooling-with-go/
+
+https://github.com/PacktWorkshops/The-Go-Workshop
